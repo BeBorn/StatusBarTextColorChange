@@ -22,7 +22,7 @@ import com.smilexie.statusbartextcolorchange.util.Utils;
 import java.util.ArrayList;
 
 /**
- * 主页，不同的fragment，其状态栏背景和文字颜色不一样
+ * 主页，不同的fragment，其状态栏背景和文字颜色不一样 我改了东西
  */
 public class MainActivity extends AppCompatActivity {
 
